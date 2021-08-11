@@ -6,7 +6,8 @@
 
 💼 Ferramentas: VSCode, GitHub.
 
-💬 Se você deseja entrar em contato, meu gmail: jeff.7avares@gmail.com
+💬 Se você deseja entrar em contato, meu gmail: jeff.7avares@gmail.com ;
+
 ----
 > Ou me envie uma mensagem nas redes:
 
