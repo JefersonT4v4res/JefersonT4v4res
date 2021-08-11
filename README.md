@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é <strong>Jeferson Lucas Tavares!</strong>
 
-&#X1F4BB Sou Desenvolvedor de Front-End, apaixonado por design e edição de mídias.
+:computer: Sou Desenvolvedor de Front-End, apaixonado por design e edição de mídias.
 
 💼 Ferramentas: VSCode, GitHub.
 
@@ -31,4 +31,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&show_icons=true&theme=tokyonight)
