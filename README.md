@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é <strong>Jeferson Lucas Tavares!</strong>
 
-:computer: Sou Desenvolvedor de Front-End, apaixonado por design, edição de fotos e vídeos.
+:computer: Sou Desenvolvedor de Front-End, interessado em edição de fotos e vídeos, IA e desenvolvimento de jogos.
 
 💼 Ferramentas: VSCode, GitHub.
 
