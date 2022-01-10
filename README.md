@@ -4,7 +4,7 @@
 
 :computer: Sou Desenvolvedor de Front-End, interessado em edição de fotos e vídeos, IA e desenvolvimento de jogos.
 
-💼 Ferramentas: VSCode, GitHub, Figma, Photoshop.
+💼 Ferramentas: VSCode, GitHub, Trello, Figma, Photoshop.
 
 💬 Se você deseja entrar em contato, meu gmail: jeff.7avares@gmail.com ;
 
