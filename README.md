@@ -34,15 +34,14 @@
 
   [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JefersonT4v4res/count.svg?"  />
-</div>
-
 ###
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JefersonT4v4res/count.svg?"  />
+</div>
 
 
 
