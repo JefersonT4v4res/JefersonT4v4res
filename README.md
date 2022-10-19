@@ -9,9 +9,8 @@
   <img src="./imgs/space-guy.png" min-width="300px" max-width="300px" width="300px" align="left">
   <p>"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
 </div>
+
 ---
-
-
 
 ## 🚀 Minhas Skills
 
