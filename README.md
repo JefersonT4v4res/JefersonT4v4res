@@ -45,9 +45,9 @@
 
 
 
-## 💬 Entre em contato
+<h2 align="center"> 💬 Entre em contato </h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jeferson-74vares/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
