@@ -1,6 +1,7 @@
-<img src="./imgs/bg_space.png" min-width="500px" max-width="500px" width="500px" align="center">
+<img src="./imgs/bg_space.png" min-width="900px" max-width="900px" width="900px">
 
-<h1 align="center">:computer: Olá, Mundo! Meu nome é Jeferson Tavares. Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</h1>
+<h1 align="center">👨‍💻 Olá, Mundo!☕</h1>
+<p align="center"> 🖖Meu nome é Jeferson Tavares. Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</p>
 
 ---
 
@@ -29,7 +30,8 @@
 <code>!![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</code>
 <code>![Trello](https://img.shields.io/badge/Trello-%23121011.svg?style=for-the-badge&logo=Trello&logoColor=white)</code>
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</code>
-<code>![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg)</code>
+<code>![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo")</code>
+
 
 ----
 
@@ -53,12 +55,6 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&show_icons=true&theme=tokyonight)
-
-
-
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JefersonT4v4res" height="150" alt="stats graph"  />
