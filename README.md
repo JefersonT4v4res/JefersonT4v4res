@@ -10,6 +10,8 @@
 
 ---
 
+##
+
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -18,7 +20,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  /></code>
 <code><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="32"/></code>
 
-##
 
 ## 💼 Ferramentas
 
@@ -27,7 +28,7 @@
 <code>!![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</code>
 <code>![Trello](https://img.shields.io/badge/Trello-%23121011.svg?style=for-the-badge&logo=Trello&logoColor=white)</code>
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</code>
-<code>![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo")</code>
+<code>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</code>
 
 
 ----
