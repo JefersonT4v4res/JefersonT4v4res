@@ -5,11 +5,10 @@
 
 ---
 
-<img src="./imgs/space-guy.png" min-width="300px" max-width="300px" width="300px" align="left">
-<p>"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
-<br>
-<br>
-
+<div>
+  <img src="./imgs/space-guy.png" min-width="300px" max-width="300px" width="300px" align="left">
+  <p>"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
+</div>
 ---
 
 
@@ -32,8 +31,23 @@
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</code>
 <code>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</code>
 
-
 ----
+
+## ⭐ Informações sobre minha conta GitHub
+
+  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JefersonT4v4res/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/JefersonT4v4res/JefersonT4v4res/blob/output/snake.svg" alt="Snake animation" />
+
 
 ## 💬 Entre em contato
 
@@ -54,17 +68,3 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JefersonT4v4res" height="150" alt="stats graph"  />
-  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JefersonT4v4res/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/JefersonT4v4res/JefersonT4v4res/blob/output/snake.svg" alt="Snake animation" />
