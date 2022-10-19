@@ -1,16 +1,18 @@
 <img src="./imgs/bg_space.png" min-width="900px" max-width="900px" width="900px">
 
 <h1 align="center">👨‍💻 Olá, Mundo!☕</h1>
-<p font-size="18px" align="center"> 🖖Meu nome é Jeferson Tavares. Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</p>
+<p font-size="18px" align="center"> 🖖<strong>Meu nome é Jeferson Tavares. Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</strong></p>
 
 ---
 
 <img src="./imgs/space-guy.png" min-width="300px" max-width="300px" width="300px" align="left">
 <p>"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
+<br>
+<br>
 
 ---
 
-##
+
 
 ## 🚀 Minhas Skills
 
@@ -56,7 +58,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=JefersonT4v4res" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=default &card_width=320&langs_count=5&theme=radical&hide_border=false&username=JefersonT4v4res" height="150" alt="languages graph"  />
+  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div align="center">
