@@ -32,9 +32,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![JefersonT4v4res](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
