@@ -9,7 +9,7 @@
 
 <br><br><br>
 
-<p class="bloco" height="18em" align="center">"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
+<p height="18em" align="center">"<em>Flutuando pela imensidão das possibilidades minha mente vaga como um astronauta pela infinidade do espaço, pintando o vazio e fazendo do código meu pincel. Dando vida aos diferentes mundos que antes eram apenas ideias, dando visibilidade, notoriedade e ligando os holofotes para que o público possa apreciar.</em>"</p>
 
 <br><br><br>
 
