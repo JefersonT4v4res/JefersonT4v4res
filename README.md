@@ -38,6 +38,8 @@
 ## ⭐ Informações sobre minha conta GitHub
 
   [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###
 
