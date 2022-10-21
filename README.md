@@ -13,9 +13,15 @@
 
 <br><br><br>
 
-## 🚀 Minhas Skills
+---
 
-<div align="left">
+<img src="./imgs/Menu_character.jpg" height="600px" width="500px" align="right">
+
+<br><br><br><br>
+
+<h2 align="center"> 🚀 Minhas Skills </h2>
+
+<div align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -23,25 +29,18 @@
 <code><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="32"/></code>
 </div>
 
+<h2 align="center"> 💼 Ferramentas </h2>
 
-## 💼 Ferramentas
 
 <code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
 <code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</code>
 <code>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</code>
+<br>
 <code>![Trello](https://img.shields.io/badge/Trello-%23121011.svg?style=for-the-badge&logo=Trello&logoColor=white)</code>
 <code>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</code>
 <code>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</code>
-
-----
-
-## ⭐ Informações sobre minha conta GitHub
-
-  [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  
 ###
-
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
