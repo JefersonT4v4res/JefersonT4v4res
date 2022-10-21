@@ -7,11 +7,11 @@
 
 <img src="./imgs/space-guy.png" min-width="300px" max-width="300px" width="300px" align="left">
 
-<br><br><br><br>
+<br><br><br>
 
 <p class="bloco" height="18em" align="center">"<em>Como um astronauta minha mente vaga pela infinitude do espaço, dando vida aos diferentes mundos que antes eram apenas ideias, criando as coisas mais loucas que se pode imaginar, dando visibilidade, notoriedade e ligando os olofotes para ue o público possa apreciar. Pintar o espaço fazendo do código meu pincel e flutuar pela imensidão das possibilidades</em>"</p>
 
-<br><br>
+<br><br><br>
 
 ## 🚀 Minhas Skills
 
@@ -38,7 +38,6 @@
 ## ⭐ Informações sobre minha conta GitHub
 
   [![JefersonT4v4res](https://github-readme-stats.vercel.app/api?username=JefersonT4v4res&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonT4v4res&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ###
