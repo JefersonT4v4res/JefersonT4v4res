@@ -1,7 +1,8 @@
-<img src="./imgs/bg_space.png" min-width="900px" max-width="900px" width="900px">
+<figure class="image" >
+  <img src="./imgs/bg_space.png" width="900px">
 
-<h1 align="center">👨‍💻 Olá, Mundo!☕</h1>
-<p font-size="18px" align="center"> 🖖<strong>Meu nome é Jeferson Tavares. Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</strong></p>
+  <figcaption font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</figcaption>
+</figure>
 
 ---
 
