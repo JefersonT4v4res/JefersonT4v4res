@@ -18,7 +18,7 @@
 
 <img src="./imgs/Menu_character.jpg" height="600px" width="500px" align="right">
 
-<br><br><br><br>
+<br><br>
 
 <h2 align="center"> 🚀 Minhas Skills </h2>
 
@@ -29,6 +29,8 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  /></code>
 <code><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="32"/></code>
 </div>
+
+<br><br><br><br><br><br>
 
 <h2 align="center"> 💼 Ferramentas </h2>
 
