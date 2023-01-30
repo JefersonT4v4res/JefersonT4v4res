@@ -1,4 +1,4 @@
- <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou quase um cientista da computação, estagiário na Compass.uol como Dev Front-end e gamer nas horas vagas</p>
+ <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou quase um cientista da computação, focado em desenvolvimento web Front-end, crio algumas artes, aprececiador de Design, UX e UI e gamer nas horas vagas</p>
 
 
 ---
@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/jeferson-74vares/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/jeferson_tavares" target="_blank">
+  <a href="https://www.instagram.com/djeff.producoes/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="mailto:jeff.7avares@gmail.com" target="_blank">
