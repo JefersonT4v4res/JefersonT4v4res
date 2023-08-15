@@ -1,4 +1,4 @@
- <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou quase um cientista da computação, focado em desenvolvimento web Front-end, crio algumas artes, aprececiador de Design, UX e UI e gamer nas horas vagas</p>
+ <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou um cientista da computação, focado em desenvolvimento web Front-end, crio algumas artes, aprececiador de Design, UX e UI e gamer nas horas vagas</p>
 
 
 ---
