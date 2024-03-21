@@ -3,8 +3,6 @@
 
 ---
 
-<img src="./imgs/Menu_character.jpg" height="600px" width="500px" align="right">
-
 <br><br>
 
 <h2 align="center"> 🚀 Minhas Skills </h2>
