@@ -1,18 +1,20 @@
- <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Sou um cientista da computação, focado em desenvolvimento web Front-end, crio algumas artes, aprececiador de Design, UX e UI e gamer nas horas vagas</p>
+ <p font-size="18px" align="center">🖖<strong>Meu nome é Jeferson Tavares</strong>.<br>Eu sou uma pessoa desenvolvedora front-end, graduado em ciência da computação. Interessado em me tornar um full-stack, aprececiador de Design, UX e gamer nas horas vagas</p>
 
 
 ---
 
-<br><br>
-
 <h2 align="center"> 🚀 Minhas Skills </h2>
 
 <div align="center">
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  /></code>
-<code><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="32"/></code>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html5&logoColor=orange" />
+<img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=css3&logoColor=blue" />
+<img src="https://img.shields.io/badge/Saas-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+ 
 </div>
 
 <br><br><br><br><br><br>
